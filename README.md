@@ -5,7 +5,7 @@
 ![ENIGMA](https://github.com/xtruan/flipper-enigma/blob/main/icons/ENIGMA_128x56.png)
 
 ## Enigma machine emulator for Flipper Zero
-- Built against `0.101.2` Flipper Zero firmware release
+- Built against `0.104.0` Flipper Zero firmware release
 - Uses [enigma-machine](https://github.com/LeonardoE95/enigma-machine) lib
 
 The Enigma machine was an encryption device used primarily by Germany during World War II to secure military communications. It consisted of a series of rotors and plugboards that scrambled plaintext messages into ciphertext, which could then be transmitted securely. The machine's complexity and the constantly changing settings of its components made it incredibly difficult to decipher without knowing the exact configuration used at the time of encryption. Despite its initial success in keeping communications secret, the Allies eventually broke the Enigma code, significantly contributing to their victory in the war. Today, the Enigma machine is a symbol of cryptographic history and technological innovation.
